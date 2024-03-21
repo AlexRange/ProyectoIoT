@@ -33,6 +33,7 @@ Diseñar y desarrollar un dispositivo IoT interactivo y autónomo, denominado "O
 ![20231211_185558](https://github.com/zFerchou/Oveja/assets/148410334/058982d7-3193-4830-b94b-8fdab9372d23)
 
 
+## Diagrama
 
 ## Oveja video
 
