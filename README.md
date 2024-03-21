@@ -29,11 +29,18 @@ Diseñar y desarrollar un dispositivo IoT interactivo y autónomo, denominado "O
 
 
 ## Prototipo 
-WhatsApp Image 2024-03-20 at 3.25.44 PM.jpeg
-![20231211_185558](https://github.com/zFerchou/Oveja/assets/148410334/058982d7-3193-4830-b94b-8fdab9372d23)
+![WhatsApp Image 2024-03-20 at 3 25 44 PM](https://github.com/AlexRange/ProyectoIoT/assets/142765604/ac560d33-2608-420f-971c-f47d260821d3)
+
+![WhatsApp Image 2024-03-20 at 3 25 46 PM](https://github.com/AlexRange/ProyectoIoT/assets/142765604/aec168f9-a352-401d-b081-9dfc5436e2c6)
+
 
 
 ## Diagrama
+![WhatsApp Image 2024-03-20 at 9 25 16 PM](https://github.com/AlexRange/ProyectoIoT/assets/142765604/a3680604-1f83-4e1c-8aaf-a58a49c342c0)
+
+![WhatsApp Image 2024-03-20 at 9 25 16 PM(1)](https://github.com/AlexRange/ProyectoIoT/assets/142765604/ec0fb3c2-f3bb-4b9e-84bf-f958f308cfeb)
+
+![WhatsApp Image 2024-03-20 at 3 25 47 PM(1)](https://github.com/AlexRange/ProyectoIoT/assets/142765604/fcd79fdd-b53f-4431-875f-2b7101d44fb8)
 
 ## Oveja video
 
